@@ -7,12 +7,19 @@ This project is a simple membership registration form built with React using `re
 1. **Clone the Repository**: 
 git clone https://github.com/icest99/react-hook-registration-form.git
 
-2. **Install Dependencies**: 
+2. **Install Dependencies**:
+
+```
 cd react-hook-registration-form
 npm install
 
-3. **Run the Application**:
+```
+
+
+4. **Run the Application**:
+```
 npm run dev
+```
 
 This command will start the development server. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
